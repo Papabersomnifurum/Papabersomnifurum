@@ -9,7 +9,11 @@
 📫 How to reach me: aleglacayo03@gmail.com
 
 <h1> Languages </h1>
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40" />
+<p>
+  <img src= "https://github.com/user-attachments/assets/cbbd3574-149d-4ef4-ab0e-93b0d6b5a375" widht= "50" />
+  <img src= "URL1" widht= "50" />
+  <img src= "URL1" widht= "50" />
+</p>
 
 
 <!--
