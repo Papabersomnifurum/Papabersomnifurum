@@ -15,8 +15,13 @@
   <img src="https://img.shields.io/badge/HTML5-80%25-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 80%">
   
   <img src="https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python 70%">
-</div>
 
+  <img src="https://img.shields.io/badge/KNIME-Analytics-FBB117?style=for-the-badge&logo=knime&logoColor=white" alt="KNIME Analytics">
+
+  <img src="https://img.shields.io/badge/Lua-60%25-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua 60%">
+
+  <img src="https://img.shields.io/badge/PSeInt-Logic-9b59b6?style=for-the-badge&logo=powershell&logoColor=white" alt="PSeInt Logic">
+</div>
 
 <!--
 Papabersomnifurum/Papabersomnifurum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
