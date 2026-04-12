@@ -16,6 +16,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/KNIME-75%25-FBB117?style=for-the-badge&logo=knime&logoColor=white" alt="KNIME 75%">
   <img src="https://img.shields.io/badge/PSeInt-90%25-9b59b6?style=for-the-badge&logo=fluent-builder&logoColor=white" alt="PSeInt 90%">
+  <img src="https://img.shields.io/badge/90%25-ffffff?style=for-the-badge&logo=microsoft-excel&logoColor=217346" alt="Excel 90%">
 </div>
 
 <!--
