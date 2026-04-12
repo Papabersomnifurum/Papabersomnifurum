@@ -1,5 +1,19 @@
+<div align="center">
+  <h1>👋 Alejandro Gomez</h1>
+  <p><b>Information Systems Major | Computer Science Minor</b></p>
+  <p><i>Florida Institute of Technology</i></p>
+</div>
 
-<strong>### Biography 👋 Name: Alejandro Gomez 👀 Career Focus: Pursuing a career in Cybersecurity 🌱 Currently Learning: Python, Lua, and HTML 💻 Experience & Tools: Compiled languages: C++ and C# Tools: Visual Studio Code (for software development, scripting, and small automation tools) 🎓 Education: Completing a Bachelor's degree in Information Systems (minor in Computer Science and Engineering) Planning to continue with a Master's in Cybersecurity 💞️ Collaboration Interests: Authentication systems, secure login interfaces, and web security fundamentals 📫 Contact: aleglacayo03@gmail.com</strong>
+<hr>
+
+### 🎯 Career Focus & Interests
+* **Current Path:** Pursuing a career in Cybersecurity.
+* **Future Plans:** Planning to continue with a Master's in Cybersecurity.
+* **Collaboration:** Interested in authentication systems, secure login interfaces, and web security fundamentals.
+* **Contact:** 📧 [aleglacayo03@gmail.com](mailto:aleglacayo03@gmail.com)
+
+<hr>
+
 
 <h2> Languages </h2>
 <h3> 💻 Programming Languages </h3>
