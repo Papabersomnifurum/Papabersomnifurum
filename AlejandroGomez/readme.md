@@ -10,7 +10,7 @@
 
 <h1> Languages </h1>
 <p>
-  <img src= "https://github.com/Papabersomnifurum/Papabersomnifurum/blob/main/download.png?raw=true" widht= "30" />
+  <img src= "convert download.png -resize 50% -strip -quality 90 download-tiny.png" widht= "30" />
   <img src= "https://github.com/Papabersomnifurum/Papabersomnifurum/blob/main/download.png?raw=true" widht= "30" />
 </p>
 
