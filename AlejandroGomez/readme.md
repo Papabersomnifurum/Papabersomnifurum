@@ -9,27 +9,13 @@
 📫 How to reach me: aleglacayo03@gmail.com
 
 <h1> Languages </h1>
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br />
-      <sub><b>C++</b></sub><br />
-      <img src="https://geps.dev/progress/100?dangerColor=34eb71&warningColor=34eb71&successColor=34eb71" alt="Expert" />
-    </td>
-
-    <td align="center" width="200">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br />
-      <sub><b>HTML5</b></sub><br />
-      <img src="https://geps.dev/progress/80?dangerColor=3498db&warningColor=3498db&successColor=3498db" alt="Advanced" />
-    </td>
-
-    <td align="center" width="200">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br />
-      <sub><b>Python</b></sub><br />
-      <img src="https://geps.dev/progress/70?dangerColor=f1c40f&warningColor=f1c40f&successColor=f1c40f" alt="Intermediate" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img src="https://img.shields.io/badge/C++-100%25-brightgreen?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ 100%">
+  
+  <img src="https://img.shields.io/badge/HTML5-80%25-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 80%">
+  
+  <img src="https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python 70%">
+</div>
 
 
 <!--
