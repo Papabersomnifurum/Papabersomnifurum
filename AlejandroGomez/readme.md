@@ -11,11 +11,10 @@
 <h1> Languages </h1>
 <p>
   <img src= "https://www.python.org/static/community_logos/python-logo.png." widht= "50" />
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.png" widht= "50" />
-  <img src= "[URL1](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" widht= "50" />
+ 
 </p>
 
-<img width="1024" height="436" alt="image" src="https://github.com/user-attachments/assets/797008d7-c8d1-4995-8deb-726585141f3c" />
+
 
 
 
