@@ -11,24 +11,25 @@
 <h1> Languages </h1>
 <table>
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python"/><br />
-      <sub><b>Python</b></sub><br />
-      <img src="https://geps.dev/progress/65" alt="Intermediate" />
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5"/><br />
-      <sub><b>HTML5</b></sub><br />
-      <img src="https://geps.dev/progress/75" alt="Intermediate" />
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"/><br />
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br />
       <sub><b>C++</b></sub><br />
-      <img src="https://geps.dev/progress/30" alt="Novice" />
+      <img src="https://geps.dev/progress/100?dangerColor=34eb71&warningColor=34eb71&successColor=34eb71" alt="Expert" />
+    </td>
+
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br />
+      <sub><b>HTML5</b></sub><br />
+      <img src="https://geps.dev/progress/80?dangerColor=3498db&warningColor=3498db&successColor=3498db" alt="Advanced" />
+    </td>
+
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br />
+      <sub><b>Python</b></sub><br />
+      <img src="https://geps.dev/progress/70?dangerColor=f1c40f&warningColor=f1c40f&successColor=f1c40f" alt="Intermediate" />
     </td>
   </tr>
 </table>
-
 
 
 <!--
