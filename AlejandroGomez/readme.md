@@ -9,7 +9,8 @@
 📫 How to reach me: aleglacayo03@gmail.com
 
 <h1> Languages </h1>
-![C++ Logo](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png)
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40" />
+
 
 <!--
 Papabersomnifurum/Papabersomnifurum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
