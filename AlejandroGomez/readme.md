@@ -18,6 +18,10 @@
   <img src="https://img.shields.io/badge/PSeInt-90%25-9b59b6?style=for-the-badge&logo=fluent-builder&logoColor=white" alt="PSeInt 90%">
 </div>
 
+<h3> 📚 Reference Management Software </h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Zotero-95%25-CC0000?style=for-the-badge&logo=zotero&logoColor=white" alt="Zotero 95%">
+</div>
 <!--
 Papabersomnifurum/Papabersomnifurum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
