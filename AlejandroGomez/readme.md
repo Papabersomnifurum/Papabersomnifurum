@@ -1,12 +1,5 @@
 
-<h1> Biography </h1>
-👋 Hi, I’m Alejandro Gomez  
-👀 I’m focused on pursuing a career in Cybersecurity.  
-🌱 I’m currently learning Python, Lua, and HTML, and I also have experience with compiled languages such as C++ and C#.  
-💻 I have hands-on experience using Visual Studio Code for software development, scripting, and small automation tools.  
-🎓 I’m completing a Bachelor’s degree in Information Systems with a minor in Computer Science and Engineering, and I plan to continue with a Master’s in Cybersecurity.  
-💞️ I’m looking to collaborate on projects related to authentication systems, secure login interfaces, and web security fundamentals.  
-📫 How to reach me: aleglacayo03@gmail.com
+<strong>### Biography 👋 Name: Alejandro Gomez 👀 Career Focus: Pursuing a career in Cybersecurity 🌱 Currently Learning: Python, Lua, and HTML 💻 Experience & Tools: Compiled languages: C++ and C# Tools: Visual Studio Code (for software development, scripting, and small automation tools) 🎓 Education: Completing a Bachelor's degree in Information Systems (minor in Computer Science and Engineering) Planning to continue with a Master's in Cybersecurity 💞️ Collaboration Interests: Authentication systems, secure login interfaces, and web security fundamentals 📫 Contact: aleglacayo03@gmail.com</strong>
 
 <h2> Languages </h2>
 <div align="left">
