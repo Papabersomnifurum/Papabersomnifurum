@@ -16,11 +16,11 @@
   
   <img src="https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python 70%">
 
-  <img src="https://img.shields.io/badge/KNIME-75%25-FBB117?style=for-the-badge&logo=analytics&logoColor=black" alt="KNIME 75%">
+  <img src="https://img.shields.io/badge/KNIME-Analytics-FBB117?style=for-the-badge&logo=knime&logoColor=white" alt="KNIME Analytics">
 
   <img src="https://img.shields.io/badge/Lua-60%25-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua 60%">
 
-  <img src="https://img.shields.io/badge/PSeInt-90%25-9b59b6?style=for-the-badge&logo=fluent-builder&logoColor=white" alt="PSeInt 90%">
+  <img src="https://img.shields.io/badge/PSeInt-Logic-9b59b6?style=for-the-badge&logo=powershell&logoColor=white" alt="PSeInt Logic">
 </div>
 
 <!--
