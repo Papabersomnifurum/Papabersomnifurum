@@ -9,19 +9,25 @@
 📫 How to reach me: aleglacayo03@gmail.com
 
 <h1> Languages </h1>
-<div align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32" style="margin-right: 10px;" />
-  </a>
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="32" height="32" style="margin-right: 10px;" />
-  </a>
-  
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="32" height="32" style="margin-right: 10px;" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python"/><br />
+      <sub><b>Python</b></sub><br />
+      <img src="https://geps.dev/progress/65" alt="Intermediate" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5"/><br />
+      <sub><b>HTML5</b></sub><br />
+      <img src="https://geps.dev/progress/75" alt="Intermediate" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"/><br />
+      <sub><b>C++</b></sub><br />
+      <img src="https://geps.dev/progress/30" alt="Novice" />
+    </td>
+  </tr>
+</table>
 
 
 
