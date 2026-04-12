@@ -10,9 +10,8 @@
 
 <h1> Languages </h1>
 <p>
-  <img src= "[https://www.python.org/static/community_logos/python-logo.png.](https://github.com/Papabersomnifurum/Papabersomnifurum/blob/main/download.png?raw=true)" widht= "50" />
+  <img src= "https://github.com/Papabersomnifurum/Papabersomnifurum/blob/main/download.png?raw=true" widht= "50" />
 </p>
-
 
 
 
