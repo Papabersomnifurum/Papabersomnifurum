@@ -10,9 +10,9 @@
 
 <h1> Languages </h1>
 <p>
-  <img src= "https://github.com/user-attachments/assets/cbbd3574-149d-4ef4-ab0e-93b0d6b5a375" widht= "50" />
-  <img src= "URL1" widht= "50" />
-  <img src= "URL1" widht= "50" />
+  <img src= "https://www.python.org/static/community_logos/python-logo.png" widht= "50" />
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.png" widht= "50" />
+  <img src= "[URL1](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" widht= "50" />
 </p>
 
 
