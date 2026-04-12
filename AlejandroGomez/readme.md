@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://tu-url-del-gif-aqui.gif" width="100%" alt="Banner Animado">
+  
   <h1>👋 Alejandro Gomez</h1>
   <p><b>Information Systems Major | Computer Science Minor</b></p>
   <p><i>Florida Institute of Technology</i></p>
