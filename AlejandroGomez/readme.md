@@ -8,7 +8,7 @@
 💞️ I’m looking to collaborate on projects related to authentication systems, secure login interfaces, and web security fundamentals.  
 📫 How to reach me: aleglacayo03@gmail.com
 
-<h1> Languages </h1>
+<h2> Languages </h2>
 <div align="left">
   <img src="https://img.shields.io/badge/C++-100%25-brightgreen?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ 100%">
   
