@@ -11,7 +11,6 @@
 <h1> Languages </h1>
 <p>
   <img src= "https://www.python.org/static/community_logos/python-logo.png." widht= "50" />
- 
 </p>
 
 
