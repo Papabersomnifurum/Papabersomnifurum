@@ -9,11 +9,19 @@
 📫 How to reach me: aleglacayo03@gmail.com
 
 <h1> Languages </h1>
-<p>
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" widht= "100" />
-  <img src= "https://github.com/Papabersomnifurum/Papabersomnifurum/blob/main/download.png?raw=true" widht= "30" />
-</p>
-
+<div align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32" style="margin-right: 10px;" />
+  </a>
+  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="32" height="32" style="margin-right: 10px;" />
+  </a>
+  
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="32" height="32" style="margin-right: 10px;" />
+  </a>
+</div>
 
 
 
