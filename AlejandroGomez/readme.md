@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://tu-url-del-gif-aqui.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2swNTFtdGVkdW5jNmFmY3RubWZkaWNrNzU2MGl2OHE1aHA4YjVhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif)" width="100%" alt="Banner Animado">
+  <img src="https://github.com/Papabersomnifurum/Papabersomnifurum/blob/main/alejandrogome.gif?raw=true" width="100%" alt="Banner Animado">
   
   <h1>👋 Alejandro Gomez</h1>
   <p><b>Information Systems Major | Computer Science Minor</b></p>
