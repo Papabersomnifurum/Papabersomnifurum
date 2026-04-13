@@ -1,6 +1,4 @@
-<div align="center">
- <img src="https://github.com/Papabersomnifurum/Papabersomnifurum/blob/main/alejandrogome.gif?raw=true" width="600" alt="Banner Animado">
-  
+<div align="center"> 
   <h1>👋 Alejandro Gomez</h1>
   <p><b>Information Systems Major | Computer Science Minor</b></p>
   <p><i>Florida Institute of Technology</i></p>
