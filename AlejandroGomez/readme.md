@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Papabersomnifurum/Papabersomnifurum/blob/main/alejandrogome.gif?raw=true" width="20" alt="Banner Animado">
+  <img src="https://github.com/Papabersomnifurum/Papabersomnifurum/blob/main/alejandrogome.gif?raw=true" width="50" alt="Banner Animado">
   
   <h1>👋 Alejandro Gomez</h1>
   <p><b>Information Systems Major | Computer Science Minor</b></p>
